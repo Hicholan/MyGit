@@ -1,0 +1,20 @@
+mnp, -i express cors
+
+json lint
+
+ to check the json file
+
+bodyaprser --- to send the json file
+
+
+MONGO  -- C:/mongo/bin
+
+json format
+no relation database
+
+
+setup:::
+show dbs
+
+to use esiting db
+use dbname   -- new name will create
